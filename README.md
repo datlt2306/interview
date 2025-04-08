@@ -2,6 +2,8 @@
 
 Repository này chứa bộ câu hỏi phỏng vấn cho các vị trí internship và junior developer. Các câu hỏi được tổ chức theo từng chủ đề và được viết bằng tiếng Việt.
 
+Tất cả các nội dung chỉ mang tính chất tham khảo, không phải là câu hỏi phỏng vấn chính thức.
+
 ## Cấu trúc Repository
 
 Repository được tổ chức thành các branch khác nhau, mỗi branch chứa các câu hỏi phỏng vấn cho một ngôn ngữ lập trình hoặc chủ đề cụ thể:
