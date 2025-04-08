@@ -8,9 +8,8 @@ Tất cả các nội dung chỉ mang tính chất tham khảo, không phải l�
 
 Repository được tổ chức thành các branch khác nhau, mỗi branch chứa các câu hỏi phỏng vấn cho một ngôn ngữ lập trình hoặc chủ đề cụ thể:
 
--   `main`: Branch chính, chứa README và các tài liệu chung
 -   `javascript`: Chứa câu hỏi phỏng vấn về JavaScript, React, Node.js
--   `general`: Chứa câu hỏi phỏng vấn chung về clean code, testing, làm việc nhóm
+-   Xem nội dung tại: [https://github.com/datlt2306/interview/tree/javascript](https://github.com/datlt2306/interview/tree/javascript)
 
 ## Các chủ đề trong Branch JavaScript
 
